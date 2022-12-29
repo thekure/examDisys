@@ -1,0 +1,84 @@
+2022/12/29 11:57:20 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:20 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:21 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:35 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:57:35 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:57:36 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:57:45 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:45 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:46 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:57:54 --- Kureste succesfully dialed to 5001
+2022/12/29 11:57:54 --- Kureste succesfully dialed to 5002
+2022/12/29 11:57:54 --- Kureste succesfully dialed to 5003
+2022/12/29 11:58:00 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:00 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:01 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:02 Kureste has made the following bid: 10
+2022/12/29 11:58:02 Kureste has made the following bid: 10
+2022/12/29 11:58:02 Kureste has made the following bid: 10
+2022/12/29 11:58:07 Kureste has made the following bid: 10
+2022/12/29 11:58:07 Kureste has made the following bid: 10
+2022/12/29 11:58:07 Kureste has made the following bid: 10
+2022/12/29 11:58:10 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:10 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:11 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:12 Kureste has made the following bid: 10
+2022/12/29 11:58:12 Kureste has made the following bid: 10
+2022/12/29 11:58:12 Kureste has made the following bid: 10
+2022/12/29 11:58:15 Kureste has made the following bid: 10
+2022/12/29 11:58:15 Kureste has made the following bid: 10
+2022/12/29 11:58:15 Kureste has made the following bid: 10
+2022/12/29 11:58:17 Kureste has made the following bid: 20
+2022/12/29 11:58:17 Kureste has made the following bid: 20
+2022/12/29 11:58:17 Kureste has made the following bid: 20
+2022/12/29 11:58:21 Kureste has made the following bid: 60000
+2022/12/29 11:58:21 Kureste has made the following bid: 60000
+2022/12/29 11:58:21 Kureste has made the following bid: 60000
+2022/12/29 11:58:25 
+The auction is now over with the winner being Kureste. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:25 
+The auction is now over with the winner being Kureste. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:26 
+The auction is now over with the winner being Kureste. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:27 Kureste has made the following bid: 5000
+2022/12/29 11:58:27 Kureste has made the following bid: 5000
+2022/12/29 11:58:27 Kureste has made the following bid: 5000
+2022/12/29 11:58:35 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:35 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:36 
+The Auction has now begun and will run for -15- seconds
+2022/12/29 11:58:50 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:50 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
+2022/12/29 11:58:51 
+The auction is now over with the winner being the initial value. 
+ Next Auction will begin in -10- seconds
